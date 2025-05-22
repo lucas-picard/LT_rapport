@@ -8,9 +8,8 @@ body {
     color: #333;
 }
 
-p{
-    text-align:justify;
-}
+
+
 header {
     background-color: #364799;
     color: white;
@@ -54,6 +53,7 @@ main {
     box-shadow: 0 0 5px black ;
     margin-top: 20px;
     border-radius: 8px;
+    text-align: justify;
 }
 
 section {
